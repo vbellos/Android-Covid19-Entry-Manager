@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/99pth/AndroidStudioProjects/final_exam/app/src/main/res/layout/activity_admin_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/99pth/AndroidStudioProjects/final_exam/app/src/main/res/layout/activity_admin_main_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/99pth/AndroidStudioProjects/final_exam/app/src/main/res/layout/activity_create_entry.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/99pth/AndroidStudioProjects/final_exam/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/99pth/AndroidStudioProjects/final_exam/app/src/main/res/layout/activity_remove_entry.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/99pth/AndroidStudioProjects/final_exam/app/src/main/res/layout/content_remove_entry.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/99pth/AndroidStudioProjects/final_exam/app/src/main/res/layout/fragment_first.xml" value="0.3197463768115942" />
+        <entry key="..\:/Users/99pth/AndroidStudioProjects/final_exam/app/src/main/res/layout/fragment_second.xml" value="0.3197463768115942" />
+        <entry key="..\:/Users/99pth/Desktop/final_exam/app/src/main/res/layout/activity_admin_login.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/99pth/Desktop/final_exam/app/src/main/res/layout/activity_start.xml" value="0.4" />
+        <entry key="..\:/Users/Vaggelis/AndroidStudioProjects/final_exam_final/app/src/main/res/layout/activity_admin_main_page.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Vaggelis/AndroidStudioProjects/final_exam_final/app/src/main/res/layout/case_view_control.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam/app/src/main/res/layout/activity_admin_login.xml" value="0.33" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam/app/src/main/res/layout/activity_admin_main_page.xml" value="0.25" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam/app/src/main/res/layout/activity_create_entry.xml" value="0.33" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam/app/src/main/res/layout/activity_edit_entry.xml" value="0.2484375" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam/app/src/main/res/layout/activity_register.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam/app/src/main/res/layout/activity_start.xml" value="0.2484375" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam/app/src/main/res/layout/activity_view_cases.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam/app/src/main/res/layout/case_view_control.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam_final/app/src/main/res/layout/activity_admin_login.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam_final/app/src/main/res/layout/activity_admin_main_page.xml" value="0.14" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam_final/app/src/main/res/layout/activity_create_entry.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam_final/app/src/main/res/layout/activity_easter_egg.xml" value="0.1375" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam_final/app/src/main/res/layout/activity_edit_entry.xml" value="0.26856884057971014" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam_final/app/src/main/res/layout/activity_register.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam_final/app/src/main/res/layout/activity_start.xml" value="0.27219202898550726" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam_final/app/src/main/res/layout/activity_view_cases.xml" value="0.24870466321243523" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam_final/app/src/main/res/layout/case_view_control.xml" value="0.25" />
+        <entry key="..\:/Users/Vaggelis/Desktop/final_exam_final/app/src/main/res/layout/radio_button.xml" value="0.25885416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

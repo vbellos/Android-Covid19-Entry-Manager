@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.ViewCases">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/cases_recyclerview"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <info.hoang8f.android.segmented.SegmentedGroup
+            android:id="@+id/view_cases_segmented"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:sc_border_width="2dp"
+            app:sc_checked_text_color="@color/white"
+            app:sc_corner_radius="10dp"
+            app:sc_tint_color="@color/design_default_color_primary"
+
+            app:sc_unchecked_tint_color="@color/white">
+
+
+            <RadioButton
+                android:id="@+id/sc_button_all"
+                style="@style/RadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:text="@string/all" />
+
+            <RadioButton
+                android:id="@+id/sc_button_rec"
+                style="@style/RadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:text="@string/recovered" />
+
+            <RadioButton
+                android:id="@+id/sc_button_ill"
+                style="@style/RadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:text="@string/ill" />
+
+            <RadioButton
+                android:id="@+id/sc_button_dec"
+                style="@style/RadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:text="@string/deceased" />
+
+        </info.hoang8f.android.segmented.SegmentedGroup>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">COVID-19 Information</string>
+    <string name="title_activity_remove_entry">RemoveEntry</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="language">ΓΛΩΣΣΑ</string>
+    <string name="english">ΑΓΓΛΙΚΑ</string>
+    <string name="Greek">ΕΛΛΗΝΙΚΑ</string>
+
+    <string name="login">ΣΥΝΔΕΣΗ</string>
+    <string name="register">ΕΓΓΡΑΦΗ</string>
+    <string name="email">Email</string>
+    <string name="password">ΚΩΔΙΚΟΣ</string>
+
+    <string name="admin_panel">Admin Panel</string>
+    <string name="logout">ΑΠΟΣΥΝΔΕΣΗ</string>
+
+
+    <string name="add">ΠΡΟΣΘΗΚΗ</string>
+    <string name="edit">ΤΡΟΠΟΠΟΙΗΣΗ</string>
+    <string name="delete">ΔΙΑΓΡΑΦΗ</string>
+
+    <string name="view_cases">ΠΡΟΒΟΛΗ</string>
+    <string name="add_case">ΠΡΟΣΘΗΚΗ</string>
+    <string name="edit_case">ΤΡΟΠΟΠΟΙΗΣΗ</string>
+
+    <string name="full_name">ΟΝΟΜ/ΝΥΜΟ</string>
+    <string name="phone">ΤΗΛΕΦΩΝΟ</string>
+    <string name="amka">ΑΜΚΑ</string>
+    <string name="current_state">ΠΑΡΟΥΣΑ ΚΑΤΑΣΤΑΣΗ</string>
+    <string name="time">ΩΡΑ</string>
+    <string name="location">ΤΟΠΟΘΕΣΙΑ</string>
+
+    <string name="ill">ΑΡΩΣΤΟΣ</string>
+    <string name="recovered">ΑΝΑΡΩΣΕ</string>
+    <string name="deceased">ΝΕΚΡΟΣ</string>
+
+
+
+    <string name="total">ΣΥΝΟΛΟ</string>
+    <string name="all">ΟΛΑ</string>
+    <string name="statistics">ΣΤΑΤΙΣΤΙΚΑ</string>
+
+
+    <!--Toasts-->
+    <string name="suc_login">User Logged in Successfully</string>
+    <string name="fail_auth">Unable to Authenticate</string>
+    <string name="fail_cred">Incorrect Credentials Provided</string>
+    <string name="empty_fields">Please Fill in All Fields</string>
+    <string name="weak_pass">Weak Password</string>
+    <string name="weak_pass_txt">Password must be at least 8 characters</string>
+    <string name="reg_succ">User Created Successfully</string>
+    <string name="db_error">Database Error</string>
+    <string name="db_error_txt">"Maybe user already exists or poor internet connection"</string>
+    <string name="insuff_data">Insufficient Data</string>
+    <string name="entry_created">New Entry Created </string>
+    <string name="entry_edited">Entry Edited</string>
+
+    <string name="no_gps">GPS Permissions Required</string>
+
+</resources>
